@@ -10,7 +10,7 @@ on:
 jobs:
   build:
 
-    runs-on: slef-hosted
+    runs-on: self-hosted
 
     steps:
     - name: Step-1 Checkout the code
